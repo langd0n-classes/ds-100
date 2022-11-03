@@ -2,7 +2,7 @@
 
 Welcome to the DS-100 GitHub!<br>
 In this GitHub repository, you will find various resources that will help you succeed in this class and in your future ones.<br>
-If you are a new student, check out the [technical guide](https://nbviewer.org/github/langdon/ds-100/blob/cethan-ec_file_jupyter-draft/DS-100_Technical_Guide.ipynb) to get started. Otherwise, check out the links below.
+If you are a new student, check out the [technical guide](https://nbviewer.org/github/langdon/ds-100/blob/cethan-ec_file_jupyter-draft/DS-100_Technical_Guide.ipynb) to get started. Otherwise, check out the links below for other resources.
 
 - DS-100 Resources
   - [technical guide](https://nbviewer.org/github/langdon/ds-100/blob/cethan-ec_file_jupyter-draft/DS-100_Technical_Guide.ipynb)
